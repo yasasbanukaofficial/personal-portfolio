@@ -1,2 +1,12 @@
-# personal-portfolio
-This a web page which is an easy one that I have developed in order to receive a certificate from freeCodeCamp and this also will be proof for my developing skills which is not fully learned yet.
+# Personal Portfolio 
+This is about a personal webpage.
+
+Hello there 👋
+This is a web page that I've done inorder to receive a web certificate from a site called freecodecamp.org and this is one of the projects that I should complete.
+
+# Reasons for uploading 👇;
+1. Inorder to showcase my developing skills.
+2. As a proof that I've done page inorder to hone my own skills in developing skills.
+3. As a example for new beginners to make their own pages.
+
+Thank You 🙏 
